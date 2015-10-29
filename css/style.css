@@ -1,5 +1,9 @@
+body {
+
+}
 .wrapper {
     text-align: center;
+
 }
 
 .button {
@@ -12,7 +16,7 @@
 
 
 html {
-  background: url("some_url_to_an_image") no-repeat center center fixed; 
+  background: url("http://www.fromquarkstoquasars.com/wp-content/uploads/2014/05/rock-paper-scissors.jpg") no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
